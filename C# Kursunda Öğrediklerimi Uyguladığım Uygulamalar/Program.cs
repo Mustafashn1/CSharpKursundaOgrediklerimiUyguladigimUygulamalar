@@ -10,11 +10,9 @@ namespace C__Kursunda_Öğrediklerimi_Uyguladığım_Uygulamalar
     {
         static void Main(string[] args)
         {
-
             SayibulmaUygulaması();
+
         }
-
-
 
         static void SayibulmaUygulaması()
         {
@@ -43,5 +41,7 @@ namespace C__Kursunda_Öğrediklerimi_Uyguladığım_Uygulamalar
             Console.WriteLine($"*******************  Tebrikler Doğru Sayi {tahmin}        *******************");
             Console.ReadLine();
         }
+
+
     }
 }
